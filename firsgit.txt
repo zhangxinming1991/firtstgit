@@ -2,3 +2,4 @@ this is my first git
 hello,world
 efwefwe
 remote add
+local add
